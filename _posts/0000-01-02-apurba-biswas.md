@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to your second slide!"
 ---
 You used Vim to edit this
-Use the left arrow to go back!
+“Adapt what is useful, reject what is useless, and add what is specifically your own.”
